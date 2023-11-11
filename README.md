@@ -6,13 +6,16 @@ Learning new things, looking forward to more
     /></a>
 </div>
 <br>
+## I'm a Computer Science Engineering student from TecuaYork, Jalostotitlán, Jalisco, MX📌
+
 
 <br> 
 <br>
--Learning C++
+--Learning C++
 <br>
-UDG student, Cualtos
+--UDG student, Cualtos
 <br>
+--Interested in new technologies
 <br>
 
 
