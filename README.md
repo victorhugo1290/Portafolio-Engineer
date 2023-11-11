@@ -4,6 +4,7 @@ Learning new things, looking forward to more
 <br> 
 <br>
 **-Learning C++**
+<br>
 **UDG student, Cualtos**
 
 
