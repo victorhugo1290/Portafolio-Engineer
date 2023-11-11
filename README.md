@@ -3,9 +3,23 @@ Learning new things, looking forward to more
 
 <br> 
 <br>
-# **-Learning C++**
+-Learning C++
 <br>
-# **UDG student, Cualtos**
+UDG student, Cualtos
+<br>
+<div align="center">
+  <a href="<div align="center">
+  <a href="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif">
+  <img  src="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif"
+       alt="loading" 
+    /></a>
+</div>
+<br>">
+  <img  src="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif"
+       alt="loading" 
+    /></a>
+</div>
+<br>
 
 
 ### **Languages:**
