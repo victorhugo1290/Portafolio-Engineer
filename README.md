@@ -1,5 +1,12 @@
 # **Portafolio-Engineer**
 Learning new things, looking forward to more
+<div align="center">
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwawatech-rafa-estoy-aprendiendo-the-simpson-gif-16914929&psig=AOvVaw1k44IfrQWbB9AoryO5vcZP&ust=1699758691360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC8wtv8uoIDFQAAAAAdAAAAABAD">
+  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwawatech-rafa-estoy-aprendiendo-the-simpson-gif-16914929&psig=AOvVaw1k44IfrQWbB9AoryO5vcZP&ust=1699758691360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC8wtv8uoIDFQAAAAAdAAAAABAD"
+       alt="loading" 
+    /></a>
+</div>
+<br>
 
 <br> 
 <br>
@@ -7,18 +14,6 @@ Learning new things, looking forward to more
 <br>
 UDG student, Cualtos
 <br>
-<div align="center">
-  <a href="<div align="center">
-  <a href="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif">
-  <img  src="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif"
-       alt="loading" 
-    /></a>
-</div>
-<br>">
-  <img  src="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif"
-       alt="loading" 
-    /></a>
-</div>
 <br>
 
 
