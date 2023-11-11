@@ -3,7 +3,8 @@ Learning new things, looking forward to more
 
 <br> 
 <br>
-#`f80000`-Learning C++**
+**-Learning C++**
+**UDG student, Cualtos**
 
 
 ### **Languages:**
