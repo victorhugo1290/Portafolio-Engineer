@@ -1,9 +1,8 @@
 # **Portafolio-Engineer**
 Learning new things, looking forward to more
 <div align="center">
-  <a href="https://assets-v2.lottiefiles.com/a/8ac3f620-1162-11ee-93ee-5f72c70cdba0/PKM5Pmxvja.gif">
-  <img  src="https://assets-v2.lottiefiles.com/a/8ac3f620-1162-11ee-93ee-5f72c70cdba0/PKM5Pmxvja.gif"
-       alt="loading" 
+  <a href="https://media.tenor.com/w6BMR3XvuywAAAAC/wawatech-rafa.gif">
+  <img  src="https://media.tenor.com/w6BMR3XvuywAAAAC/wawatech-rafa.gif"
     /></a>
 </div>
 <br>
