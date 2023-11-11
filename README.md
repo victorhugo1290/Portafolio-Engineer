@@ -1,5 +1,6 @@
 # **Portafolio-Engineer**
-
+Learning new things, looking forward to more
+ -Learning C++
 
 
 ### **Languages:**
@@ -17,4 +18,7 @@
 
 <br>
 <br>
+### Socials:
+[![Contact e-mail](victorgtzalvarado@hotmail.com/)
 
+<br>
