@@ -16,3 +16,7 @@
 
 <br>
 <br>
+<img align="left" alt="vsc" width="50px" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.codeblocks.codeblocks.png"  />
+
+<br>
+<br>
