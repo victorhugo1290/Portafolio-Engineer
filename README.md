@@ -18,7 +18,3 @@ Learning new things, looking forward to more
 
 <br>
 <br>
-### Socials:
-[![Contact e-mail](victorgtzalvarado@hotmail.com/)
-
-<br>
